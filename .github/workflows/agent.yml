@@ -1,4 +1,4 @@
-name: Loyo Test Guardian
+﻿name: Loyo Test Guardian
 on:
   schedule:
     - cron: '*/15 * * * *'
